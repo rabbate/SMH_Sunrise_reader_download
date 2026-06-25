@@ -1,6 +1,6 @@
 ﻿{
   "gitRevision": "34b16ce",
   "gitCommitTimeMs": 1782415180000,
-  "downloadUrl": "https://smhsunrisereader.fast.io/quickshare/awx75-2xs3a-zhvu4-fzweg-ldqel-7uh6",
+  "downloadUrl": "https://raw.githubusercontent.com/rabbate/SMH_Sunrise_reader_download/main/smh_sunrise_reader-latest.apk",
   "releaseNotes": "â€¢ release: test update flow\nâ€¢ release: test update check\nâ€¢ release: update APK download URL to debug APK\nâ€¢ release: update config for 46def9b\nâ€¢ release: bump version to 1.1.0 (versionCode 2)\nâ€¢ release: update config for 17e4294\nâ€¢ release: v1.1.0 ΓÇö add release automation script and in-app Check for Updates feature\nâ€¢ fix: Enforce status bar safety margin (min 180f starting Y) on pull-to-refresh gestures to prevent accidental slide-down of notification panel\nâ€¢ revert: Revert overly broad airstrip/telemetry document exemptions (matching 'TELE' etc.)\nâ€¢ fix: resolve patient list loading deadlock on empty list and network delay\nâ€¢ fix: resolve ANR dialog detection loophole via thread-aware cooldown and TYPE_SYSTEM scanning\nâ€¢ Implement target app responsiveness check and guard accessibility calls to resolve watchdog crash loop. Merge and preserve document_candidates_log across scrapes.\nâ€¢ Fix: CC/HPI column layout print clipping at larger font sizes\nâ€¢ Deduplicate and preserve demographics (such as room number) from existing data during merge\nâ€¢ Fix state machine retry bug: reset currentPatientSaved to false during H&P auto-rescrape"
 }
